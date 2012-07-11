@@ -1,0 +1,6 @@
+pluginclassname=OpencastMarkupPlugin
+pluginname=OpencastMarkup (for eCult)
+origin=elan-ev
+version=0.1
+studipMinVersion=2.3
+
